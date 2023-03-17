@@ -1,6 +1,6 @@
 # python-telegram-bots
-eho-b0t
-wiki-b0t
-bot with two virtual buttons
-mem-bot
-chat-bot
+1. eho-b0t
+2. wiki-b0t
+3. bot with two virtual buttons
+4. mem-bot
+5. chat-bot
