@@ -5,3 +5,5 @@
 3.bot with two virtual buttons
 4.mem-bot
 5.chat-bot
+
+NOT FINISHED YET -_-
