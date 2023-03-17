@@ -1,6 +1,8 @@
 # python-telegram-bots
+
 1. eho-b0t
-2. wiki-b0t
-3. bot with two virtual buttons
-4. mem-bot
-5. chat-bot
+    a. install pytelegrambotapi
+3.wiki-b0t
+4.bot with two virtual buttons
+5.mem-bot
+6.chat-bot
