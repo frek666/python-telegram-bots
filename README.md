@@ -6,4 +6,8 @@
 4.mem-bot
 5.chat-bot
 
-NOT FINISHED YET -_-
+an example of five simple telegram bots
+
+material taken from https://xakep.ru
+
+special thanks for the article Ivan Saraev
