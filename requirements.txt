@@ -1,1 +1,4 @@
 pytelegrambotapi==4.10.0
+wikipedia==1.4.0
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.20.9
